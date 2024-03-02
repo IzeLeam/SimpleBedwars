@@ -1,0 +1,14 @@
+bedwars.heal:
+  default: true
+  description: Heal a player
+
+
+bedwars.feed:
+  default: true
+  description: Feed a player
+
+users:
+  izeleam:
+    permissions:
+    - bedwars.heal
+    - bedwars.feed

@@ -1,4 +1,4 @@
-package fr.izeleam.games.bedwars.game;
+package fr.izeleam.games.bedwars.managers;
 
 import fr.izeleam.games.bedwars.BedWars;
 

@@ -1,3 +1,5 @@
 name: BedWars
 version: '${project.version}'
 main: fr.izeleam.games.bedwars.BedWars
+commands :
+
